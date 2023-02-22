@@ -17,6 +17,7 @@ int main(){
 
   int option;
   while(!exit){
+    system("clear");
     cout << "******************" << endl;
     cout << "* " << expression << "*" <<  endl;
     cout << "******************" << endl;
